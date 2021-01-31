@@ -1,0 +1,18 @@
+.heading3 h3{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.berita{
+    padding-top: 20px;
+}
+.nav{
+    background-color:white;
+}
+
+
+/* DESKTOP VERSION */
+@media (min-width: 992px)  {
+    
+}
